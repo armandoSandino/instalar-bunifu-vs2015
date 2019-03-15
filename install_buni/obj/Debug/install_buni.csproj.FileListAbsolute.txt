@@ -1,0 +1,10 @@
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\bin\Debug\install_buni.exe.config
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\bin\Debug\install_buni.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\bin\Debug\install_buni.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.csprojResolveAssemblyReference.cache
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.Properties.Resources.resources
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.csproj.GenerateResource.Cache
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\install_buni\install_buni\obj\Debug\install_buni.ExampleControlBunifu.resources
